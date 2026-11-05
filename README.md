@@ -1,4 +1,5 @@
-Titanic Dataset Preparation & Exploratory Data Analysis
+#Titanic Dataset Preparation & Exploratory Data Analysis
+
 📌 Project Overview
 This repository contains the  Dataset Preparation Activity ( Foundations & Data Preparation). The objective of this project is to inspect a raw tabular dataset, identify data-quality issues, handle missing values, perform basic exploratory data analysis (EDA), and prepare the data for a future machine learning workflow.
 
