@@ -5,8 +5,7 @@
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 
-> **Course:** Unit I – Foundations & Data Preparation  
-> **Activity:** Dataset Preparation Activity (5 Marks)
+
 
 ## 📖 Project Overview
 This repository contains a complete data preparation and exploratory data analysis (EDA) pipeline for the classic **Titanic Dataset**. The objective of this project is to inspect a raw, real-world dataset, identify data-quality issues, handle missing values logically, visualize key trends, and engineer the data into a clean format suitable for a downstream machine learning workflow. 
